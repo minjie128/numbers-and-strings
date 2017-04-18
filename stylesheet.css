@@ -1,0 +1,33 @@
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+section {
+  margin-top: 2rem;
+}
+
+form label {
+  font-weight: 400;
+}
+
+textarea {
+  max-width: 60%;
+}
+
+#frequency-display {
+  width: 45%;
+  margin-top: 1.5rem;
+}
